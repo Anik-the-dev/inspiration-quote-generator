@@ -21,3 +21,11 @@ export const GradientBackgroundCon = styled.div`
     }
   }
 `;
+
+export const BackgroundImage1 = styled(Image)`
+position: relative;
+z-index:1; 
+margin-top: -10px;
+margin-left: -120px;
+  
+`;
