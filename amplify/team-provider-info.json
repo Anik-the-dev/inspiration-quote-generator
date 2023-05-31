@@ -10,6 +10,11 @@
       "StackName": "amplify-inspirationalquotes-dev-175906",
       "StackId": "arn:aws:cloudformation:eu-north-1:809044475773:stack/amplify-inspirationalquotes-dev-175906/a0668570-ffaa-11ed-b66b-0a6dd6df57b2",
       "AmplifyAppId": "dy9wlit3dpfq7"
+    },
+    "categories": {
+      "auth": {
+        "inspirationalquotes7edfecb6": {}
+      }
     }
   }
 }
